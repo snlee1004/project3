@@ -62,9 +62,11 @@ git add .
 
 2. 히스토리 만들기
 git commit -m "first commit"
+또는 
+git commit -m "second commit"
 
 3. Github로 올리기
-git push origin master
+git push origin master(브런치이름)
 
 Github로 팀프로젝트 하는법
 ---------------------------------------------------------------------
